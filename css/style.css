@@ -1,5 +1,5 @@
 #main {
-	background:url(/web/20160327215727/http://allgreen-russia.ru/i/bg.jpg) no-repeat center top;	
+	background:url(/img/bg.jpg) no-repeat center top;	
 	width: 1270px;
 	margin: 0 auto;
 	height: 595px;	
@@ -33,7 +33,7 @@
 }
 #mainhead .menu {
 	border: 1px solid #e9e9e9;
-	background:url(/web/20160327215727/http://allgreen-russia.ru/i/tbg.gif) repeat-x center top #eeeeee;	
+	background:url(/img/tbg.gif) repeat-x center top #eeeeee;	
 	border-radius: 11px;
 	-moz-border-radius: 11px;
 	-o-border-radius: 11px;	
@@ -59,7 +59,7 @@
 	margin: 0 .8em .8em .8em;
 }
 #content {
-	background:url(/web/20160327215727/http://allgreen-russia.ru/i/bg.jpg) no-repeat top;
+	background:url(/img/bg.jpg) no-repeat top;
 	margin: -82px auto 0 auto;
 	padding-top: 34px;
 }
@@ -203,12 +203,12 @@
 	padding: 2em 1em 1em 2em;
 }
 #contentf {
-	background:url(/web/20160327215727/http://allgreen-russia.ru/i/bg3.jpg) no-repeat top center;
+	background:url(/img/bg3.jpg) no-repeat top center;
 	margin: 0 auto;
 	height: 63px;
 }
 #splash {
-	background:url(/web/20160327215727/http://allgreen-russia.ru/i/bg2.jpg) no-repeat top;
+	background:url(/img/bg2.jpg) no-repeat top;
 	margin: -89px auto 0 auto;
 	height: 603px;
 }
@@ -324,7 +324,7 @@
 }
 .triaf {
 	width: 910px;
-	background-image:url(/web/20160327215727/http://allgreen-russia.ru/i/shad.jpg);
+	background-image:url(/img/shad.jpg);
 	background-position: top center;
 	background-repeat: no-repeat;
 }
