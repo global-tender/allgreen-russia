@@ -136,6 +136,136 @@ footer div.footer-element {
 
 
 
+.content-index {
+	background:url(/img/bg2.jpg) no-repeat top;
+	height: 603px;
+	margin-top: -89px;
+}
+
+.content-index .info {
+	margin: 0 auto;
+	padding: 63px 0 0 340px;
+	width: 500px;
+}
+.content-index .info .info-top-text {
+	font-style: normal;
+	font-size: 1.8em;
+	line-height: 2.2em;
+	color: #5f7d00;
+}
+.content-index .info .info-top-text .info-green {
+	color: #a7de00;
+}
+
+.content-index .info p {
+	font-size: .9em;
+	line-height: 1.5em;
+	color: #6c6c6c;
+}
+
+.content-index .info h1 {
+	font-size: .9em;
+	line-height: 1.5em;
+	color: #6c6c6c;
+	font-weight: normal;
+}
+
+
+.content-index nav.index-menu {
+	width: 940px;
+	clear: both;
+	margin: 37px auto 0 auto;	
+	height: 80px;
+
+	left: -2px;
+	position: relative;
+}
+
+.content-index nav.index-menu ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 80px;
+}
+
+.content-index nav.index-menu li {
+	width: 235px;
+
+	display: table-cell;
+	vertical-align: middle;
+	height: 80px;
+	padding-left: 10px;
+}
+
+.content-index nav.index-menu li a {
+	color: #222;
+	font-weight: bold;
+	border: none;
+	display: block;
+	width: 190px;
+}
+
+.content-index nav.index-menu li a img {
+	border: none;
+	float: left;
+	margin-right: 5px;
+}
+
+.content-index nav.index-menu li a span {
+	top: 5px;
+	position: relative;
+}
+
+/* *** */
+
+.content-index .index-sections {
+	width: 940px;
+	clear: both;
+	margin: 0 auto;
+	height: 235px;
+
+	left: -2px;
+	position: relative;
+}
+
+.content-index .index-sections .index-sect-left {
+	padding:25px;
+	vertical-align: top;
+	width: 50%;
+	text-align: center;
+
+	display: table-cell;
+}
+
+.content-index .index-sections .index-sect-left img {
+	max-width: 240px;
+	border-radius: 11px;
+}
+
+
+.content-index .index-sections .index-sect-right {
+	padding:25px;
+	vertical-align: top;
+	width: 50%;
+	text-align: left;
+
+	display: table-cell;
+}
+
+.content-index .index-sections .index-sect-right h2 {
+	font-style: normal;
+	font-size: 1.3em;
+	line-height: 1em;
+	color: #485b0c;
+	font-weight: normal;
+	margin: .3em 0;
+	padding: 0;
+}
+
+.content-index .index-sections .index-sect-right p {
+	font-size: .8em;
+	line-height: 1.3em;
+}
 
 
 
@@ -298,96 +428,7 @@ footer div.footer-element {
 	margin: 0 auto;
 	height: 63px;
 }
-.content-index {
-	background:url(/img/bg2.jpg) no-repeat top;
-	height: 603px;
-	margin-top: -89px;
-}
-.content-index .info {
-	margin: 0 auto;
-	padding: 63px 0 0 340px;
-	width: 500px;
-}
-.content-index .info cite {
-	font-style: normal;
-	font-size: 1.8em;
-	line-height: 2.2em;
-	color: #5f7d00;
-}
-.content-index .info cite font {
-	color: #a7de00;
-}
-.content-index .info p {
-	font-size: .9em;
-	line-height: 1.5em;
-	color: #6c6c6c;
-}
-.content-index #tbl4 {
-	width: 940px;
-	clear: both;
-	margin: 28px auto 0 auto;	
-	height: 80px;
-}
-.content-index #tbl4 td {
-	padding: 1em;
-	vertical-align: middle;
-	width: 25%;
-	padding-top: 22px;
-}
-.content-index #tbl4 td a {
-	color: #222;
-	font-weight: bold;
-	border: none;
-	line-height: 15px;
-}
-.content-index #tbl4 td a img {
-	border: none;
-	float: left;
-	margin-right: 5px;
-	margin-top: -10px;
-}
 
-.content-index #tbl2 {
-	width: 940px;
-	clear: both;
-	margin: 0 auto;
-	height: 235px;		
-}
-.content-index #tbl2 td {
-	padding:25px;
-	vertical-align: top;
-	width: 50%;
-}
-.content-index #tbl2 h2 {
-	font-style: normal;
-	font-size: 1.3em;
-	line-height: 1em;
-	color: #485b0c;
-	font-weight: normal;
-	margin: .3em 0;
-	padding: 0;
-}
-.content-index #tbl2 td p {
-	font-size: .8em;
-	line-height: 1.3em;
-}
-.content-index #tbl2 td:first-child p{
-	font-size: 12px;
-   line-height: 19px;
-}
-.content-index #tbl2 .d td {
-	padding: 1em;
-}
-.content-index #tbl2 .d span {
-	font-size: 11px;
-	line-height: 14px;
-	color: #050;
-}
-.content-index #tbl2 .d p {
-	font-size: 12px;
-	line-height: 16px;
-	
-}
 
 .triaf {
 	width: 910px;
