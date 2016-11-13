@@ -48,22 +48,12 @@
 
 			<div class="header-element-right">
 				<div class="header-contacts">
-					<span class="phone" id="select_phone_top" onclick="selectText('select_phone_top');"><? if ($is_mobile) {?><a href="tel:+78632035599" title="Позвонить">+7 863 203-55-99</a><?}else{?>+7 863 203-55-99<?}?></span><span class="space">|</span> <a href="mailto:allgreen@allgreen-russia.ru">allgreen@all<span class="hidden">is</span>green-russia.ru</a>
+					<span class="phone" id="select_phone_top" onclick="selectText('select_phone_top');"><? if ($is_mobile) {?><a href="tel:+78632035599" title="Позвонить">+7 863 203-55-99</a><?}else{?>+7 863 203-55-99<?}?></span><span class="space">|</span> <a href="mailto:allgreen@allgreen-russia.ru" title="Написать на почту">allgreen@all<span class="hidden">is</span>green-russia.ru</a>
 				</div>
 
 
 				<div class="menu">
-					<a href="/company/">Компания</a>
-					<span class="space">|</span>
-					<a href="/products/">Продукция</a>
-					<span class="space">|</span>
-					<a href="/cert/">Сертификаты</a>
-					<span class="space">|</span>
-					<a href="/awards/">Награды</a>
-					<span class="space">|</span>
-					<a href="/partners/">Партнеры</a>
-					<span class="space">|</span>
-					<a href="/contacts/">Контакты</a>
+					
 				</div>
 			</div>
 

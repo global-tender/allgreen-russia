@@ -47,7 +47,7 @@
 	<div class="index-sections">
 
 		<div class="index-sect-left">
-			<img src="/img/skidka.jpg" alt="Скидка 10% на все в честь юбилея компании">
+			<img src="/img/skidka.jpg" alt="Скидка 10% на все в честь юбилея компании - 10 лет">
 		</div>
 
 		<div class="index-sect-right">
