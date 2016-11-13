@@ -70,6 +70,10 @@ header {
 	color: #808080;
 }
 
+.header-element-right .header-contacts span.phone::selection {
+	color: #808080;
+}
+
 .header-element-right span.space {
 	font-size: .72em;
 	margin: 0 18px;
