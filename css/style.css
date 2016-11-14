@@ -514,29 +514,6 @@ footer div.footer-element {
 
 
 @media screen and (max-width: 980px) {
-	footer {
-		width: 100%;
-		overflow: hidden;
-		position: relative;
-		padding-left: 0px;
-		padding-right: 0px;
-	}
-
-	footer span.space {
-		display: none;
-	}
-
-	footer div.footer-element {
-		display: block;
-		padding: 5px;
-	}
-
-
-	.content-index {
-		margin-top: 0px;
-		height: inherit;
-	}
-
 
 	header {
 		height: inherit;
@@ -561,11 +538,97 @@ footer div.footer-element {
 	.header-element-right .menu {
 		width: inherit;
 		background: none;
+		border-radius: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+		border-right: 0px;
+		border-left: 0px;
 	}
 
 	.header-element-right .menu a {
 		display: block;
 		border: none;
+	}
+
+
+	footer {
+		width: inherit;
+		overflow: hidden;
+		position: relative;
+		padding-left: 0px;
+		padding-right: 0px;
+		margin-top: 10px;
+	}
+
+	footer span.space {
+		display: none;
+	}
+
+	footer div.footer-element {
+		display: block;
+		padding: 5px;
+	}
+
+
+	.content-index {
+		margin-top: 0px;
+		height: inherit;
+		background: #F3F5F2;
+	}
+
+	.content-index .info {
+		width: inherit;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.content-index .info .info-top-text {
+		line-height: inherit;
+	}
+
+	.content-index nav.index-menu {
+		width: inherit;
+		clear: both;
+		margin: inherit;
+		height: inherit;
+		left: inherit;
+		position: inherit;
+	}
+
+	.content-index nav.index-menu li {
+		width: inherit;
+		display: block;
+		vertical-align: inherit;
+		height: inherit;
+		padding-left: 10px;
+		text-align: left;
+	}
+
+	.content-index nav.index-menu li a img {
+		margin-right: 15px;
+	}
+
+	.content-index .index-sections {
+		width: inherit;
+		margin: inherit;
+		height: inherit;
+		left: inherit;
+		position: inherit;
+		padding-top: 20px;
+	}
+
+	.content-index .index-sections .index-sect-left {
+		vertical-align: inherit;
+		width: inherit;
+		display: block;
+	}
+
+	.content-index .index-sections .index-sect-right {
+		vertical-align: inherit;
+		width: inherit;
+		display: block;
 	}
 
 }
