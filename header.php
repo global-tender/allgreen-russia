@@ -18,9 +18,15 @@
 	<link rel="apple-touch-icon" href="/favicon.png">
 	<link href="/favicon.png" rel="shortcut icon" type="image/x-icon">
 
+	<!-- fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,600&amp;subset=cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&amp;subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Exo+2:400,500,600,700&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<!-- //fonts -->
+
 	<link rel="stylesheet" href="/css/normalize.css">
 	<link rel="stylesheet" href="/css/main.css">
-	<link rel="stylesheet" href="/css/style.css?ver=0.002">
+	<link rel="stylesheet" href="/css/style.css?ver=0.004">
 </head>
 
 <?php
@@ -43,7 +49,7 @@
 	<header>
 		<div class="header">
 			<div class="header-element-logo">
-				<a href="/" title="«Алл Грин» — производство моющих и чистящих средств"><img src="/img/logo.gif" alt="allgreen"></a>
+				<a href="/" class="<? if ($_SERVER['PHP_SELF'] == '/index.php') { echo 'href-off'; }?>" title="«Алл Грин» — производство моющих и чистящих средств"><img src="/img/logo.gif" alt="allgreen"></a>
 			</div>
 
 			<div class="header-element-right">

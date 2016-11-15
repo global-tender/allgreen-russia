@@ -24,6 +24,10 @@ a:hover {
 	display: none;
 }
 
+.href-off {
+	pointer-events: none;
+}
+
 
 
 
@@ -153,8 +157,8 @@ footer div.footer-element {
 }
 .content-index .info .info-top-text {
 	font-style: normal;
-	font-size: 1.8em;
-	line-height: 2.2em;
+	font-size: 1.33em;
+	line-height: 3em;
 	color: #5f7d00;
 }
 .content-index .info .info-top-text .info-green {
@@ -218,6 +222,8 @@ footer div.footer-element {
 .content-index nav.index-menu li a span {
 	top: 5px;
 	position: relative;
+	font-family: "Open Sans";
+	color: #444;
 }
 
 /* *** */
@@ -235,28 +241,34 @@ footer div.footer-element {
 .content-index .index-sections .index-sect-left {
 	padding:25px;
 	vertical-align: top;
-	width: 50%;
+	width: 470px;
 	text-align: center;
 
 	display: table-cell;
 }
 
 .content-index .index-sections .index-sect-left img {
-	max-width: 240px;
+	max-width: 234px;
 	border-radius: 11px;
+}
+
+.content-index .index-sections .index-sect-left p.skidka-info {
+	font-size: 11px;
+	color: #444;
 }
 
 
 .content-index .index-sections .index-sect-right {
 	padding:25px;
 	vertical-align: top;
-	width: 50%;
+	width: 470px;
 	text-align: left;
 
 	display: table-cell;
 }
 
 .content-index .index-sections .index-sect-right h2 {
+	font-family: "Open Sans";
 	font-style: normal;
 	font-size: 1.3em;
 	line-height: 1em;
@@ -264,11 +276,26 @@ footer div.footer-element {
 	font-weight: normal;
 	margin: .3em 0;
 	padding: 0;
+
+	border-bottom: 2px solid #fff;
+	padding-bottom: 5px;
+	display: inline-block;
 }
 
 .content-index .index-sections .index-sect-right p {
-	font-size: .8em;
+	font-family: "Open Sans";
+	font-size: .9em;
 	line-height: 1.3em;
+	font-weight: bold;
+	color: #444;
+}
+
+.content-index .index-sections .index-sect-right li {
+	font-family: "Open Sans";
+	font-size: .9em;
+	line-height: 1.5em;
+	font-weight: bold;
+	color: #444;
 }
 
 
