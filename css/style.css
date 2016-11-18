@@ -157,12 +157,22 @@ footer div.footer-element {
 }
 .content-index .info .info-top-text {
 	font-style: normal;
-	font-size: 1.33em;
-	line-height: 3em;
+	font-size: 1.6em;
+	line-height: 2.5em;
 	color: #5f7d00;
 }
 .content-index .info .info-top-text .info-green {
 	color: #a7de00;
+}
+
+.content-index .info .info-top-image-list {
+	position: absolute;
+	margin-top: -19px;
+	margin-left: 260px;
+}
+
+.content-index .info .info-top-image-list img {
+	height: 80px;
 }
 
 .content-index .info p {
@@ -182,7 +192,7 @@ footer div.footer-element {
 .content-index nav.index-menu {
 	width: 940px;
 	clear: both;
-	margin: 37px auto 0 auto;	
+	margin: 72px auto 0 auto;	
 	height: 80px;
 
 	left: -2px;
@@ -203,27 +213,44 @@ footer div.footer-element {
 	vertical-align: middle;
 	height: 80px;
 	padding-left: 10px;
+	line-height: inherit;
 }
 
 .content-index nav.index-menu li a {
-	color: #222;
+	color: #444;
 	font-weight: bold;
 	border: none;
 	display: block;
-	width: 190px;
+	width: 120px;
+
+	-webkit-transition: all .1s ease;
+	-o-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	transition: all .1s ease;
+}
+
+.content-index nav.index-menu li a:hover {
+	-webkit-transition: all .1s ease;
+	-o-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	transition: all .1s ease;
+
+	color: #777;
 }
 
 .content-index nav.index-menu li a img {
 	border: none;
-	float: left;
-	margin-right: 5px;
+	position: absolute;
+	margin-top: 0px;
+	top: 15px;
 }
 
 .content-index nav.index-menu li a span {
-	top: 5px;
-	position: relative;
 	font-family: "Open Sans";
-	color: #444;
+	left: 68px;
+	position: relative;
 }
 
 /* *** */
@@ -239,7 +266,7 @@ footer div.footer-element {
 }
 
 .content-index .index-sections .index-sect-left {
-	padding:25px;
+	padding: 25px;
 	vertical-align: top;
 	width: 470px;
 	text-align: center;
@@ -255,6 +282,8 @@ footer div.footer-element {
 .content-index .index-sections .index-sect-left p.skidka-info {
 	font-size: 11px;
 	color: #444;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 
@@ -271,7 +300,6 @@ footer div.footer-element {
 	font-family: "Open Sans";
 	font-style: normal;
 	font-size: 1.3em;
-	line-height: 1em;
 	color: #485b0c;
 	font-weight: normal;
 	margin: .3em 0;
@@ -293,7 +321,7 @@ footer div.footer-element {
 .content-index .index-sections .index-sect-right li {
 	font-family: "Open Sans";
 	font-size: .9em;
-	line-height: 1.5em;
+	padding-bottom: 5px;
 	font-weight: bold;
 	color: #444;
 }
@@ -615,6 +643,12 @@ footer div.footer-element {
 		line-height: inherit;
 	}
 
+	.content-index .info .info-top-image-list {
+		position: inherit;
+		margin-top: inherit;
+		margin-left: inherit;
+	}
+
 	.content-index nav.index-menu {
 		width: inherit;
 		clear: both;
@@ -624,17 +658,26 @@ footer div.footer-element {
 		position: inherit;
 	}
 
+	.content-index nav.index-menu ul {
+		height: inherit;
+	}
+
 	.content-index nav.index-menu li {
 		width: inherit;
 		display: block;
 		vertical-align: inherit;
-		height: inherit;
 		padding-left: 10px;
 		text-align: left;
+		line-height: 80px;
 	}
 
 	.content-index nav.index-menu li a img {
-		margin-right: 15px;
+		top: inherit;
+		margin-top: 15px;
+	}
+
+	.content-index nav.index-menu li a {
+		width: inherit;
 	}
 
 	.content-index .index-sections {
@@ -650,6 +693,7 @@ footer div.footer-element {
 		vertical-align: inherit;
 		width: inherit;
 		display: block;
+		padding: 0px;
 	}
 
 	.content-index .index-sections .index-sect-right {

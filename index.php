@@ -8,11 +8,13 @@
 <div class="content-index">
 
 	<div class="info">
-		<div class="info-top-text">Сохраним наш мир чистым - <span class="info-green">вместе с «AllGreen»!</span></div>
+
+		<div class="info-top-text">Сохраним наш мир чистым - <span class="info-green">«AllGreen»!</span></div>
 
 		<h1>Производство высококачественных моющих и чистящих средств, разработанных профессионалами в сотрудничестве со специалистами в области экологии.</h1>
 
-		<p><a href="/company/" title="О компании">Подробнее о компании</a>&nbsp;→</p>
+		<div class="info-top-image-list"><img src="/img/index-washes.png" alt="Allgreen - средства для мытья посуды"></div>
+
 	</div>
 
 	<nav class="index-menu">
@@ -24,15 +26,15 @@
 				</a>
 			</li>
 			<li>
-				<a href="/awards/" title="Награды, дипломы, сертификаты">
-					<img src="/img/prods/2.png" alt="Награды, дипломы, сертификаты">
-					<span>Награды, дипломы</span>
+				<a href="/awards/" title="Бытовая химия под своей торговой">
+					<img src="/img/prods/2.png" alt="Бытовая химия под своей торговой">
+					<span>Бытовая химия СТМ</span>
 				</a>
 			</li>
 			<li>
-				<a href="/partners/" title="Партнеры компании">
-					<img src="/img/prods/3.png" alt="Партнеры компании">
-					<span>Наши партнеры</span>
+				<a href="/partners/" title="Подробнее о компании">
+					<img src="/img/prods/3.png" alt="Подробнее о компании">
+					<span>О компании</span>
 				</a>
 			</li>
 			<li>
