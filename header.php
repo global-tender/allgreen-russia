@@ -8,8 +8,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-	<meta name="keywords" content="мобщие средства, моющий концентрат, автомашпунь">
-	<meta name="description" content="мобщие средства, моющий концентрат, автомашпунь">
+	<meta name="keywords" content="моющие средства, моющий концентрат, автомашпунь">
+	<meta name="description" content="моющие средства, моющий концентрат, автомашпунь">
 
 	<title><?=$title?></title>
 
@@ -26,7 +26,7 @@
 
 	<link rel="stylesheet" href="/css/normalize.css">
 	<link rel="stylesheet" href="/css/main.css">
-	<link rel="stylesheet" href="/css/style.css?ver=0.005">
+	<link rel="stylesheet" href="/css/style.css?ver=0.011">
 </head>
 
 <?php
@@ -58,8 +58,14 @@
 				</div>
 
 
-				<div class="menu">
-					
+				<div class="top-line">
+					<form method="POST" action="/request/" name="request">
+						<input type="text" name="allgreen_name" placeholder="Ваше имя" required>
+						<input type="text" name="allgreen_phone" placeholder="Номер телефона" required>
+						<input type="text" name="allgreen_message" placeholder="Комментарий">
+
+						<input type="submit" value="Оставить заявку" name="request_submit">
+					</form>
 				</div>
 			</div>
 

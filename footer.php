@@ -16,7 +16,10 @@
 
 </div><!-- //container -->
 
-<script src="/js/main.js?ver=0.001" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.9.0/jquery.mask.min.js"></script>
+
+<script src="/js/main.js?ver=0.002" type="text/javascript"></script>
 
 
 <!-- Yandex.Metrika counter -->

@@ -28,6 +28,10 @@ a:hover {
 	pointer-events: none;
 }
 
+input:invalid {
+	box-shadow: none;
+}
+
 
 
 
@@ -66,7 +70,7 @@ header {
 	font-size: .71em;
 	margin-bottom: 9px;
 	margin-right: 9px;
-	margin-top: 5px;
+	margin-top: 25px;
 	margin-left: 9px;
 }
 
@@ -83,27 +87,71 @@ header {
 	margin: 0 18px;
 }
 
-.header-element-right .menu {
+.header-element-right .top-line {
 	border: 1px solid #e9e9e9;
-	background:url(/img/tbg.gif) repeat-x center top #eeeeee;	
+	background:url(/img/tbg.gif) repeat-x center top #fff;
 	border-radius: 11px;
 	-moz-border-radius: 11px;
-	-o-border-radius: 11px;	
-	padding: 12px 15px;
+	-o-border-radius: 11px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	padding-right: 15px;
 	font-size: .85em;
 	width: 700px;
-	text-align: center;
+	text-align: right;
 }
 
-.header-element-right .menu a {
+.header-element-right .top-line a {
 	color: #808080;
 	text-decoration: none;
 }
-.header-element-right .menu a:hover {
+.header-element-right .top-line a:hover {
 	color: #85af00;
 }
 
+.header-element-right .top-line input[type="text"] {
+	background: transparent;
+	border: 1px solid #85af00;
+	border-radius: 11px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	padding-right: 7px;
+	color: #5f7d00;
 
+	margin-right: 5px;
+	width: 160px;
+}
+
+.header-element-right .top-line input[type="text"]:focus {
+	outline: none;
+}
+
+.header-element-right .top-line input[type="submit"]:focus {
+	outline: none;
+}
+
+.header-element-right .top-line input[type="text"]:hover {
+	box-shadow: 0px 0px 10px rgba(133, 175, 0, 0.5);
+}
+
+.header-element-right .top-line input[type="submit"] {
+	background: #85af00;
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 11px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 14px;
+	padding-right: 14px;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.header-element-right .top-line input[type="submit"]:hover {
+	background: rgb(241, 116, 0);
+	box-shadow: 0px 0px 10px rgba(133, 175, 0, 0.5);
+}
 
 
 footer {
@@ -144,52 +192,58 @@ footer div.footer-element {
 
 
 
-.content-index {
+.content {
 	background:url(/img/bg2.jpg) no-repeat top;
 	height: 603px;
 	margin-top: -89px;
 }
 
-.content-index .info {
+.content .info {
 	margin: 0 auto;
 	padding: 63px 0 0 340px;
 	width: 500px;
 }
-.content-index .info .info-top-text {
+.content .info h1 {
 	font-style: normal;
-	font-size: 1.6em;
-	line-height: 2.5em;
+	font-weight: normal;
+	font-size: 25.6px;
 	color: #5f7d00;
+	margin-top: 14px;
+	margin-bottom: 24px;
 }
-.content-index .info .info-top-text .info-green {
+.content .info h1 .info-green {
 	color: #a7de00;
 }
 
-.content-index .info .info-top-image-list {
+.content .info .info-top-image-list {
 	position: absolute;
-	margin-top: -19px;
+	margin-top: -22px;
 	margin-left: 260px;
 }
 
-.content-index .info .info-top-image-list img {
+.content .info .info-top-image-list img {
 	height: 80px;
 }
 
-.content-index .info p {
+.content .info p {
 	font-size: .9em;
 	line-height: 1.5em;
 	color: #6c6c6c;
 }
 
-.content-index .info h1 {
+.content .info h2 {
 	font-size: .9em;
 	line-height: 1.5em;
 	color: #6c6c6c;
 	font-weight: normal;
 }
 
+.content .info a {
+	font-size: .9em;
+}
 
-.content-index nav.index-menu {
+
+.content nav.index-menu {
 	width: 940px;
 	clear: both;
 	margin: 72px auto 0 auto;	
@@ -199,14 +253,14 @@ footer div.footer-element {
 	position: relative;
 }
 
-.content-index nav.index-menu ul {
+.content nav.index-menu ul {
 	padding: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	height: 80px;
 }
 
-.content-index nav.index-menu li {
+.content nav.index-menu li {
 	width: 235px;
 
 	display: table-cell;
@@ -216,12 +270,11 @@ footer div.footer-element {
 	line-height: inherit;
 }
 
-.content-index nav.index-menu li a {
+.content nav.index-menu li a {
 	color: #444;
 	font-weight: bold;
 	border: none;
 	display: block;
-	width: 120px;
 
 	-webkit-transition: all .1s ease;
 	-o-transition: all .1s ease;
@@ -230,7 +283,7 @@ footer div.footer-element {
 	transition: all .1s ease;
 }
 
-.content-index nav.index-menu li a:hover {
+.content nav.index-menu li a:hover {
 	-webkit-transition: all .1s ease;
 	-o-transition: all .1s ease;
 	-ms-transition: all .1s ease;
@@ -240,22 +293,26 @@ footer div.footer-element {
 	color: #777;
 }
 
-.content-index nav.index-menu li a img {
+.content nav.index-menu li a img {
 	border: none;
 	position: absolute;
 	margin-top: 0px;
 	top: 15px;
+	height: 50px;
+	max-width: 60px;
 }
 
-.content-index nav.index-menu li a span {
+.content nav.index-menu li a span {
 	font-family: "Open Sans";
 	left: 68px;
 	position: relative;
+	width: 120px;
+	display: inline-block;
 }
 
 /* *** */
 
-.content-index .index-sections {
+.content .index-sections {
 	width: 940px;
 	clear: both;
 	margin: 0 auto;
@@ -265,7 +322,7 @@ footer div.footer-element {
 	position: relative;
 }
 
-.content-index .index-sections .index-sect-left {
+.content .index-sections .index-sect-left {
 	padding: 25px;
 	vertical-align: top;
 	width: 470px;
@@ -274,20 +331,21 @@ footer div.footer-element {
 	display: table-cell;
 }
 
-.content-index .index-sections .index-sect-left img {
+.content .index-sections .index-sect-left img {
 	max-width: 234px;
 	border-radius: 11px;
 }
 
-.content-index .index-sections .index-sect-left p.skidka-info {
+.content .index-sections .index-sect-left p.skidka-info {
 	font-size: 11px;
 	color: #444;
 	padding-left: 5px;
 	padding-right: 5px;
+	font-family: "Open Sans";
 }
 
 
-.content-index .index-sections .index-sect-right {
+.content .index-sections .index-sect-right {
 	padding:25px;
 	vertical-align: top;
 	width: 470px;
@@ -296,7 +354,7 @@ footer div.footer-element {
 	display: table-cell;
 }
 
-.content-index .index-sections .index-sect-right h2 {
+.content .index-sections .index-sect-right h3 {
 	font-family: "Open Sans";
 	font-style: normal;
 	font-size: 1.3em;
@@ -310,7 +368,7 @@ footer div.footer-element {
 	display: inline-block;
 }
 
-.content-index .index-sections .index-sect-right p {
+.content .index-sections .index-sect-right p {
 	font-family: "Open Sans";
 	font-size: .9em;
 	line-height: 1.3em;
@@ -318,7 +376,7 @@ footer div.footer-element {
 	color: #444;
 }
 
-.content-index .index-sections .index-sect-right li {
+.content .index-sections .index-sect-right li {
 	font-family: "Open Sans";
 	font-size: .9em;
 	padding-bottom: 5px;
@@ -326,23 +384,63 @@ footer div.footer-element {
 	color: #444;
 }
 
+.content .index-sections .index-sect-right a.ctm-more-info-button {
+	position: absolute;
+	bottom: 10px;
+	right: 45px;
 
-
-
-
-
-
-
-
-
-
-
-
-#content {
-	background:url(/img/bg.jpg) no-repeat top;
-	margin: -82px auto 0 auto;
-	padding-top: 34px;
+	font-size: 14px;
+	font-family: "Open Sans";
+	text-decoration: none;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	color: #fcfdbf;
+	background: rgba(72, 91, 12, 0.4);
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 0px 10px rgba(72, 91, 12, 0.4);
 }
+
+.content .index-sections .index-sect-right a.ctm-more-info-button:hover {
+	box-shadow: inset 2px 2px 10px rgba(255, 255, 255, 0.37);
+}
+
+/* *** */
+
+.content.request {
+	height: inherit;
+	background: #F3F5F2;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.content.request .info {
+	width: inherit;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/* *** */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #cin h1 {
 	font-size: 22px;
 	font-weight: normal;
@@ -590,7 +688,7 @@ footer div.footer-element {
 		width: inherit;
 	}
 
-	.header-element-right .menu {
+	.header-element-right .top-line {
 		width: inherit;
 		background: none;
 		border-radius: 0px;
@@ -600,9 +698,21 @@ footer div.footer-element {
 		border-left: 0px;
 	}
 
-	.header-element-right .menu a {
+	.header-element-right .top-line a {
 		display: block;
 		border: none;
+	}
+
+	.header-element-right .top-line input[type="text"] {
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+
+	.header-element-right .top-line input[type="submit"] {
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 10px;
 	}
 
 
@@ -624,14 +734,13 @@ footer div.footer-element {
 		padding: 5px;
 	}
 
-
-	.content-index {
+	.content {
 		margin-top: 0px;
 		height: inherit;
 		background: #F3F5F2;
 	}
 
-	.content-index .info {
+	.content .info {
 		width: inherit;
 		padding-left: 20px;
 		padding-right: 20px;
@@ -639,17 +748,18 @@ footer div.footer-element {
 		padding-bottom: 20px;
 	}
 
-	.content-index .info .info-top-text {
-		line-height: inherit;
+	.content .info h1 {
+		margin: 0px;
 	}
 
-	.content-index .info .info-top-image-list {
+	.content .info .info-top-image-list {
 		position: inherit;
 		margin-top: inherit;
 		margin-left: inherit;
+		text-align: center;
 	}
 
-	.content-index nav.index-menu {
+	.content nav.index-menu {
 		width: inherit;
 		clear: both;
 		margin: inherit;
@@ -658,29 +768,34 @@ footer div.footer-element {
 		position: inherit;
 	}
 
-	.content-index nav.index-menu ul {
+	.content nav.index-menu ul {
 		height: inherit;
 	}
 
-	.content-index nav.index-menu li {
+	.content nav.index-menu li {
 		width: inherit;
 		display: block;
 		vertical-align: inherit;
-		padding-left: 10px;
+		padding-left: 20px;
 		text-align: left;
 		line-height: 80px;
 	}
 
-	.content-index nav.index-menu li a img {
+	.content nav.index-menu li a img {
 		top: inherit;
 		margin-top: 15px;
 	}
 
-	.content-index nav.index-menu li a {
+	.content nav.index-menu li a {
 		width: inherit;
 	}
 
-	.content-index .index-sections {
+	.content nav.index-menu li a span {
+		width: inherit;
+		left: 72px;
+	}
+
+	.content .index-sections {
 		width: inherit;
 		margin: inherit;
 		height: inherit;
@@ -689,17 +804,25 @@ footer div.footer-element {
 		padding-top: 20px;
 	}
 
-	.content-index .index-sections .index-sect-left {
+	.content .index-sections .index-sect-left {
 		vertical-align: inherit;
 		width: inherit;
 		display: block;
 		padding: 0px;
 	}
 
-	.content-index .index-sections .index-sect-right {
+	.content .index-sections .index-sect-right {
 		vertical-align: inherit;
 		width: inherit;
 		display: block;
+	}
+
+	.content .index-sections .index-sect-right a.ctm-more-info-button {
+		position: inherit;
+		right: inherit;
+		bottom: inherit;
+		background: rgba(68, 112, 35, 0.9);
+		box-shadow: 0px 0px 10px rgb(72, 91, 12);
 	}
 
 }

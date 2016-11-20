@@ -22,3 +22,13 @@
 		}
 	}
 /*	code: end */
+
+$(document).ready(function(){
+	if ( $('form[name="request"]') ) {
+		$('input[name="allgreen_phone"]').mask('+0 (000) 000-00-00');
+		$('input[name="allgreen_phone"]').on('click', function() {
+			if ( $('input[name="allgreen_phone"]').val() == "" )
+				$('input[name="allgreen_phone"]').val('+7 ');
+		});
+	}
+});
