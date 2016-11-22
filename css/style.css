@@ -41,6 +41,11 @@ header {
 	height: 210px;
 }
 
+header.header-inner {
+	height: 130px;
+	box-shadow: 0 2px 20px 0px rgba(255, 255, 255, 0.5);
+}
+
 .header {
 	color: #cfcfcf;
 	margin: 0px auto;
@@ -427,11 +432,124 @@ footer div.footer-element {
 
 /* *** */
 
+.inner-page {
+	width: 942px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.col-left {
+	display: table-cell;
+	vertical-align: top;
+	background-color: #b2c66d;
+	height: 300px;
+	width: 250px;
+	border-bottom-left-radius: 11px;
+	border-top-left-radius: 11px;
+	box-shadow: 0px 0px 10px rgba(72, 91, 12, 0.4);
+}
+
+.col-left-container {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.col-left-container a.back-to-index {
+	color: #fff;
+	border-bottom: 0px;
+}
+
+.col-left-container a.back-to-index:hover {
+	margin-left: -2px;
+}
+
+.col-left-container p {
+	font-size: 13px;
+	text-shadow: 0.2px 0.2px 0.2px #fff;
+	color: #000;
+}
 
 
+.col-right {
+	display: table-cell;
+	vertical-align: top;
+	background: #dde8be;
+	width: 692px;
+	border-bottom-right-radius: 11px;
+	border-top-right-radius: 11px;
+	box-shadow: 0px 0px 10px rgba(72, 91, 12, 0.4);
+}
+
+.col-right-container {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.col-right-container p {
+	font-size: 13px;
+	text-shadow: 0.2px 0.2px 0.2px #fff;
+	color: #000;
+}
+
+.col-right-container h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 25px;
+	text-shadow: 0.5px 0.5px 0.5px #FFF;
+}
+
+.col-right-container a.price-list-button {
+	position: absolute;
+	margin-top: -34px;
+	margin-left: 495px;
+
+	font-size: 14px;
+	font-family: "Open Sans";
+	text-decoration: none;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	color: #fcfdbf;
+	background: rgba(72, 91, 12, 0.6);
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 0px 10px rgba(72, 91, 12, 0.4);
+}
+
+.col-right-container a.price-list-button:hover {
+	box-shadow: inset 2px 2px 10px rgba(255, 255, 255, 0.37);
+}
 
 
+.col-right-container .tovar-grid {
+	text-align: center;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: table;
+}
 
+.col-right-container .tovar-grid-cell {
+	border: 1px solid #85af00;
+	float: left;
+	position: relative;
+	width: 120px;
+	margin-top: -1px;
+	margin-left: -1px;
+}
+
+.col-right-container .tovar-grid-cell img {
+	max-width: 120px;
+	max-height: 116px;
+	padding: 8px;
+}
 
 
 

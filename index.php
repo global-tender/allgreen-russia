@@ -20,19 +20,19 @@
 	<nav class="index-menu">
 		<ul>
 			<li>
-				<a href="#" title="Продукция компании «Алл Грин»">
+				<a href="/catalog/" title="Продукция компании «Алл Грин»">
 					<img src="/img/menu/icon_catalog.png" alt="Продукция компании «Алл Грин»">
 					<span>Продукция «AllGreen»</span>
 				</a>
 			</li>
 			<li>
-				<a href="#" title="Бытовая химия под своей торговой">
+				<a href="/ctm/" title="Бытовая химия под своей торговой">
 					<img src="/img/menu/icon_ctm.png" alt="Бытовая химия под своей торговой">
 					<span>Бытовая химия СТМ</span>
 				</a>
 			</li>
 			<li>
-				<a href="#" title="Подробнее о компании">
+				<a href="/about/" title="Подробнее о компании">
 					<img src="/img/menu/icon_about.png" alt="Подробнее о компании">
 					<span>О компании</span>
 				</a>

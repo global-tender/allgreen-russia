@@ -26,7 +26,7 @@
 
 	<link rel="stylesheet" href="/css/normalize.css">
 	<link rel="stylesheet" href="/css/main.css">
-	<link rel="stylesheet" href="/css/style.css?ver=0.011">
+	<link rel="stylesheet" href="/css/style.css?ver=0.015">
 </head>
 
 <?php
@@ -46,7 +46,7 @@
 
 <div class="container">
 
-	<header>
+	<header class="<?if (isset($header_inner) && $header_inner === True) { echo 'header-inner'; }?>">
 		<div class="header">
 			<div class="header-element-logo">
 				<a href="/" class="<? if ($_SERVER['PHP_SELF'] == '/index.php') { echo 'href-off'; }?>" title="«Алл Грин» — производство моющих и чистящих средств"><img src="/img/logo.gif" alt="allgreen"></a>
