@@ -62,7 +62,7 @@
 				<li>Сделать упаковку</li>
 			</ul>
 
-			<a class="ctm-more-info-button" href="#" title="Бытовая химия под своей торговой маркой">Узнать подробнее → </a>
+			<a class="ctm-more-info-button" href="/ctm/" title="Бытовая химия под своей торговой маркой">Узнать подробнее → </a>
 
 		</div>
 

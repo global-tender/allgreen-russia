@@ -32,6 +32,10 @@ input:invalid {
 	box-shadow: none;
 }
 
+a.fancybox-close {
+	border-bottom: 0px !important;
+}
+
 
 
 
@@ -443,7 +447,6 @@ footer div.footer-element {
 	display: table-cell;
 	vertical-align: top;
 	background-color: #b2c66d;
-	height: 300px;
 	width: 250px;
 	border-bottom-left-radius: 11px;
 	border-top-left-radius: 11px;
@@ -470,6 +473,17 @@ footer div.footer-element {
 	font-size: 13px;
 	text-shadow: 0.2px 0.2px 0.2px #fff;
 	color: #000;
+}
+
+.col-left-container p.skidka-info {
+	font-size: 11px;
+	color: #444;
+	font-family: "Open Sans";
+}
+
+.col-left-container img {
+	max-width: 200px;
+	border-radius: 11px;
 }
 
 
@@ -499,7 +513,9 @@ footer div.footer-element {
 .col-right-container h1 {
 	margin: 0;
 	padding: 0;
-	font-size: 25px;
+	font-size: 24px;
+	font-family: "Exo 2";
+	font-weight: normal;
 	text-shadow: 0.5px 0.5px 0.5px #FFF;
 }
 
@@ -543,12 +559,17 @@ footer div.footer-element {
 	width: 120px;
 	margin-top: -1px;
 	margin-left: -1px;
+	background: #fff;
 }
 
 .col-right-container .tovar-grid-cell img {
 	max-width: 120px;
 	max-height: 116px;
 	padding: 8px;
+}
+
+.col-right-container .tovar-grid-cell a {
+	border-bottom: 0px;
 }
 
 
@@ -790,6 +811,10 @@ footer div.footer-element {
 		height: inherit;
 	}
 
+	header.header-inner {
+		height: inherit;
+	}
+
 	.header {
 		width: inherit;
 	}
@@ -943,4 +968,31 @@ footer div.footer-element {
 		box-shadow: 0px 0px 10px rgb(72, 91, 12);
 	}
 
+	.inner-page {
+		width: inherit;
+	}
+
+	.col-left {
+		display: inherit;
+		vertical-align: inherit;
+		width: inherit;
+		border-bottom-left-radius: 0px;
+		border-top-left-radius: 0px;
+		margin-bottom: 20px;
+	}
+
+	.col-right {
+		display: inherit;
+		vertical-align: inherit;
+		width: inherit;
+		border-bottom-right-radius: 0px;
+		border-top-right-radius: 0px;
+	}
+
+	.col-right-container a.price-list-button {
+		position: inherit;
+		display: inline-block;
+		margin-left: inherit;
+		margin-top: 10px;
+	}
 }
