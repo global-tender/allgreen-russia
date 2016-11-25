@@ -34,158 +34,158 @@
 			<div class="tovar-grid">
 
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/01.jpg">
-						<img src="/img/catalog/sml/sml_01.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/01-min.jpg">
+						<img src="/img/catalog/sml/sml_01-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/02.jpg">
-						<img src="/img/catalog/sml/sml_02.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/02-min.jpg">
+						<img src="/img/catalog/sml/sml_02-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/03.jpg">
-						<img src="/img/catalog/sml/sml_03.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/03-min.jpg">
+						<img src="/img/catalog/sml/sml_03-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/04.jpg">
-						<img src="/img/catalog/sml/sml_04.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/04-min.jpg">
+						<img src="/img/catalog/sml/sml_04-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/05.jpg">
-						<img src="/img/catalog/sml/sml_05.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/05-min.jpg">
+						<img src="/img/catalog/sml/sml_05-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/06.jpg">
-						<img src="/img/catalog/sml/sml_06.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/06-min.jpg">
+						<img src="/img/catalog/sml/sml_06-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/07.jpg">
-						<img src="/img/catalog/sml/sml_07.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/07-min.jpg">
+						<img src="/img/catalog/sml/sml_07-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/08.jpg">
-						<img src="/img/catalog/sml/sml_08.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/08-min.jpg">
+						<img src="/img/catalog/sml/sml_08-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/09.jpg">
-						<img src="/img/catalog/sml/sml_09.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/09-min.jpg">
+						<img src="/img/catalog/sml/sml_09-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/10.jpg">
-						<img src="/img/catalog/sml/sml_10.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/10-min.jpg">
+						<img src="/img/catalog/sml/sml_10-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/11.jpg">
-						<img src="/img/catalog/sml/sml_11.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/11-min.jpg">
+						<img src="/img/catalog/sml/sml_11-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/12.jpg">
-						<img src="/img/catalog/sml/sml_12.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/12-min.jpg">
+						<img src="/img/catalog/sml/sml_12-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/13.jpg">
-						<img src="/img/catalog/sml/sml_13.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/13-min.jpg">
+						<img src="/img/catalog/sml/sml_13-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/14.jpg">
-						<img src="/img/catalog/sml/sml_14.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/14-min.jpg">
+						<img src="/img/catalog/sml/sml_14-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/15.jpg">
-						<img src="/img/catalog/sml/sml_15.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/15-min.jpg">
+						<img src="/img/catalog/sml/sml_15-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/16.jpg">
-						<img src="/img/catalog/sml/sml_16.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/16-min.jpg">
+						<img src="/img/catalog/sml/sml_16-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/17.jpg">
-						<img src="/img/catalog/sml/sml_17.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/17-min.jpg">
+						<img src="/img/catalog/sml/sml_17-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/18.jpg">
-						<img src="/img/catalog/sml/sml_18.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/18-min.jpg">
+						<img src="/img/catalog/sml/sml_18-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/19.jpg">
-						<img src="/img/catalog/sml/sml_19.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/19-min.jpg">
+						<img src="/img/catalog/sml/sml_19-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/20.jpg">
-						<img src="/img/catalog/sml/sml_20.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/20-min.jpg">
+						<img src="/img/catalog/sml/sml_20-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/21.jpg">
-						<img src="/img/catalog/sml/sml_21.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/21-min.jpg">
+						<img src="/img/catalog/sml/sml_21-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/22.jpg">
-						<img src="/img/catalog/sml/sml_22.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/22-min.jpg">
+						<img src="/img/catalog/sml/sml_22-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/23.jpg">
-						<img src="/img/catalog/sml/sml_23.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/23-min.jpg">
+						<img src="/img/catalog/sml/sml_23-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/24.jpg">
-						<img src="/img/catalog/sml/sml_24.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/24-min.jpg">
+						<img src="/img/catalog/sml/sml_24-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/25.jpg">
-						<img src="/img/catalog/sml/sml_25.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/25-min.jpg">
+						<img src="/img/catalog/sml/sml_25-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/26.jpg">
-						<img src="/img/catalog/sml/sml_26.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/26-min.jpg">
+						<img src="/img/catalog/sml/sml_26-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/27.jpg">
-						<img src="/img/catalog/sml/sml_27.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/27-min.jpg">
+						<img src="/img/catalog/sml/sml_27-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/28.jpg">
-						<img src="/img/catalog/sml/sml_28.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/28-min.jpg">
+						<img src="/img/catalog/sml/sml_28-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/29.jpg">
-						<img src="/img/catalog/sml/sml_29.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/29-min.jpg">
+						<img src="/img/catalog/sml/sml_29-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/30.jpg">
-						<img src="/img/catalog/sml/sml_30.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/30-min.jpg">
+						<img src="/img/catalog/sml/sml_30-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 				<div class="tovar-grid-cell">
-					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/31.jpg">
-						<img src="/img/catalog/sml/sml_31.jpg" alt="бытовая химия">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/31-min.jpg">
+						<img src="/img/catalog/sml/sml_31-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
 
