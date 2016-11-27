@@ -26,8 +26,8 @@
 				</a>
 			</li>
 			<li>
-				<a href="/ctm/" title="Бытовая химия под своей торговой">
-					<img src="/img/menu/icon_ctm.png" alt="Бытовая химия под своей торговой">
+				<a href="/ctm/" title="Бытовая химия под своей торговой маркой">
+					<img src="/img/menu/icon_ctm.png" alt="Бытовая химия под своей торговой маркой">
 					<span>Бытовая химия СТМ</span>
 				</a>
 			</li>
@@ -38,7 +38,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="#" title="Контактная информация">
+				<a href="/contacts/" title="Контактная информация">
 					<img src="/img/menu/icon_contacts.png" alt="Контактная информация">
 					<span>Контактная информация</span>
 				</a>

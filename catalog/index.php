@@ -12,6 +12,12 @@
 
 			<a class="back-to-index" href="/" title="Назад на главную"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
 
+			<?php
+				include_once("../inner_menu.php");
+			?>
+
+			<p><a class="nabor-tovarov" href="/img/all_products_big-min.png" title="Набор продукции"><img src="/img/all_products_small-min.png" alt="Набор продукции"></a></p>
+
 			<p>Продукция «Алл Грин» отвечает самым высоким стандартам качества, безопасна для человека и окружающей среды, экономична в использовании.</p>
 
 			<p>Специалисты Компании постоянно совершенствуют, разрабатывают и производят новые виды продукции, расширяя ассортимент предлагаемых товаров.</p>
@@ -188,6 +194,51 @@
 						<img src="/img/catalog/sml/sml_31-min.jpg" alt="бытовая химия">
 					</a>
 				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/32-min.jpg">
+						<img src="/img/catalog/sml/sml_32-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/33-min.jpg">
+						<img src="/img/catalog/sml/sml_33-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/34-min.jpg">
+						<img src="/img/catalog/sml/sml_34-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/35-min.jpg">
+						<img src="/img/catalog/sml/sml_35-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/36-min.jpg">
+						<img src="/img/catalog/sml/sml_36-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/37-min.jpg">
+						<img src="/img/catalog/sml/sml_37-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/38-min.jpg">
+						<img src="/img/catalog/sml/sml_38-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/39-min.jpg">
+						<img src="/img/catalog/sml/sml_39-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
+				<div class="tovar-grid-cell">
+					<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/40-min.jpg">
+						<img src="/img/catalog/sml/sml_40-min.jpg" alt="бытовая химия">
+					</a>
+				</div>
 
 			</div>
 
@@ -204,6 +255,7 @@
 
 	$(document).ready(function(){
 		$('.tovar-element').fancybox();
+		$('.nabor-tovarov').fancybox();
 	});
 
 </script>
