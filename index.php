@@ -50,7 +50,7 @@
 
 		<div class="index-sect-left">
 			<img src="/img/skidka.jpg" alt="Скидка 10% на все в честь юбилея компании - 10 лет">
-			<p class="skidka-info">* Подробнее об акции обращайтесь в головной офис.</p>
+			<p class="skidka-info">* Подробнее об акции обращайтесь в офис компании.</p>
 		</div>
 
 		<div class="index-sect-right">

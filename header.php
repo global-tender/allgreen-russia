@@ -8,8 +8,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-	<meta name="keywords" content="моющие средства, моющий концентрат, автомашпунь">
-	<meta name="description" content="моющие средства, моющий концентрат, автомашпунь">
+	<meta name="keywords" content="моющие средства, моющий концентрат, автомашпунь, косметические средства, бытовая химия, автохимия, стм, своя торговая марка">
+	<meta name="description" content="моющие средства, моющий концентрат, автомашпунь, косметические средства, бытовая химия, автохимия, стм, своя торговая марка">
 
 	<title><?=$title?></title>
 
