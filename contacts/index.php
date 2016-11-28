@@ -61,20 +61,19 @@ $(document).ready(function(){
 
 	function init(){
 		myMap = new ymaps.Map("map", {
-			center: [39.771537084054394, 47.170569076311104],
+			center: [47.170569076311104, 39.771537084054394],
 			zoom: 11,
-			type: "yandex#hybrid",
 			controls: []
 		});
 
-		myPlacemark = new ymaps.Placemark([39.81057645749588, 47.093750341111566], {
+		myPlacemark = new ymaps.Placemark([47.093750341111566, 39.81057645749588], {
 			hintContent: '«Алл Грин»',
 			balloonContent: 'Общество с ограниченной ответственностью «Алл Грин»'
 		}, {
 			preset: 'twirl#redDotIcon'
 		});
 
-		myPolyline = new ymaps.Polyline([[39.80722906064529, 47.095860479614515], [39.80727197598953, 47.09298832597525], [39.81006147336501, 47.093867573235656]],
+		myPolyline = new ymaps.Polyline([[47.095860479614515, 39.80722906064529], [47.09298832597525, 39.80727197598953], [47.093867573235656, 39.81006147336501]],
 			{balloonContent: "Схема проезда с трассы М-4"},
 			{strokeColor: "33cc00", strokeWidth: 5, strokeOpacity: 0.8}
 		);
