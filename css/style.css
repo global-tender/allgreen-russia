@@ -563,6 +563,14 @@ footer div.footer-element {
 	text-shadow: 0.5px 0.5px 0.5px #FFF;
 }
 
+.col-right-container h2 {
+	font-size: 20px;
+}
+
+.col-right-container a.mailto {
+	font-weight: bold;
+}
+
 .col-right-container a.price-list-button {
 	position: absolute;
 	margin-top: -34px;
