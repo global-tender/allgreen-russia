@@ -597,6 +597,22 @@ footer div.footer-element {
 }
 
 
+.col-right-container .tovars-head {
+	padding-bottom: 15px;
+}
+
+hr.tovars-split {
+	background: rgba(72, 91, 12, 0.6);
+	border: none;
+	height: 2px;
+}
+
+.col-right-container .tovars-section h3 {
+	font-family: "Exo 2";
+	font-weight: 500;
+	text-shadow: 0.5px 0.5px 0.5px #FFF;
+}
+
 .col-right-container .tovar-grid {
 	text-align: center;
 	position: relative;

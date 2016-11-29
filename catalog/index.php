@@ -32,10 +32,30 @@
 
 	<div class="col-right">
 		<div class="col-right-container">
-			<div>
+			<div class="tovars-head">
 				<h1>Продукция AllGreen</h1>
 				<a class="price-list-button" href="/files/price_allgreen_2016.xlsx" title="Скачать Прайс-лист компании Allgreen">Скачать Прайс-лист</a>
 			</div>
+
+			<div class="tovars-section">
+				<h3>Средство для стекол и зеркал</h3>
+
+				<div class="tovar-grid">
+					<div class="tovar-grid-cell">
+						<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/dlya-stekol-i-zerkal/01-min.jpg">
+							<img src="/img/catalog/dlya-stekol-i-zerkal/sml/sml_01-min.jpg" alt="бытовая химия">
+						</a>
+					</div>
+					<div class="tovar-grid-cell">
+						<a data-fancybox-group="tovar" class="tovar-element" href="/img/catalog/dlya-stekol-i-zerkal/02-min.jpg">
+							<img src="/img/catalog/dlya-stekol-i-zerkal/sml/sml_02-min.jpg" alt="бытовая химия">
+						</a>
+					</div>
+				</div>
+			</div>
+
+
+
 
 			<div class="tovar-grid">
 
