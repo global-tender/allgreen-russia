@@ -20,10 +20,6 @@ a:hover {
 	margin-bottom: 0px;
 }
 
-.hidden {
-	display: none;
-}
-
 .href-off {
 	pointer-events: none;
 }
@@ -37,8 +33,8 @@ a.fancybox-close {
 }
 
 #map {
-	width: 500px;
-	height: 200px;
+	width: 640px;
+	height: 300px;
 }
 
 
@@ -564,7 +560,7 @@ footer div.footer-element {
 	padding: 0;
 	font-size: 24px;
 	font-family: "Exo 2";
-	font-weight: normal;
+	font-weight: 500;
 	text-shadow: 0.5px 0.5px 0.5px #FFF;
 }
 
@@ -633,6 +629,42 @@ footer div.footer-element {
 .col-right-container .tovar-grid-cell a {
 	border-bottom: 0px;
 	display: block;
+}
+
+.col-right-container .about-company-text {
+	font-family: "Exo 2";
+	font-weight: 500;
+}
+
+.col-right-container .about-company-text p {
+	font-size: 14px;
+}
+
+.col-right-container .about-company-text a.factory-img img {
+	width: 100%;
+}
+
+.col-right-container .contacts-text {
+	font-family: "Exo 2";
+	font-weight: 500;
+}
+
+.col-right-container .contacts-text span.tel {
+	padding-left: 25px;
+	display: inline-block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.col-right-container .contacts-text .email_addr {
+	padding-left: 25px;
+	display: inline-block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.col-right-container .contacts-text span.tel a {
+	font-weight: 600;
 }
 
 
@@ -870,6 +902,11 @@ footer div.footer-element {
 
 @media screen and (max-width: 980px) {
 
+	#map {
+		width: 100%;
+		height: 200px;
+	}
+
 	header {
 		height: inherit;
 	}
@@ -1057,5 +1094,13 @@ footer div.footer-element {
 		display: inline-block;
 		margin-left: inherit;
 		margin-top: 10px;
+	}
+
+	.col-right-container .contacts-text .email_addr {
+		padding-bottom: 10px;
+	}
+
+	.col-right-container .contacts-text .email_addr b {
+		display: block;
 	}
 }

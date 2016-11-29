@@ -33,7 +33,7 @@
 	<div class="col-right">
 		<div class="col-right-container">
 			<div>
-				<h1>Продукция Allgreen</h1>
+				<h1>Продукция AllGreen</h1>
 				<a class="price-list-button" href="/files/price_allgreen_2016.xlsx" title="Скачать Прайс-лист компании Allgreen">Скачать Прайс-лист</a>
 			</div>
 
