@@ -38,6 +38,8 @@
 			</div>
 
 			<div class="tovars-section">
+				<hr class="tovars-split" />
+
 				<h3>Средство для стекол и зеркал</h3>
 
 				<div class="tovar-grid">
