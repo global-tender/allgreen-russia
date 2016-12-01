@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: https://allgreen-russia.ru/sitemap.xml
+Host: allgreen-russia.ru

@@ -30,7 +30,7 @@
 <!-- Yandex.Map -->
 <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
 
-<script src="/js/main.js?ver=0.002" type="text/javascript"></script>
+<script src="/js/main.js?ver=0.003" type="text/javascript"></script>
 
 
 <!-- Yandex.Metrika counter -->

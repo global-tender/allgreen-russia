@@ -16,7 +16,13 @@
 				include_once("../inner_menu.php");
 			?>
 
-			<br /><br />
+			<p>
+				«Алл Грин» - производитель высококачественных моющих средств.<br />
+				Основа деятельности Компании - служение Потребителю.<br />
+				Наша миссия — производство высококачественных и доступных по цене продуктов, улучшающих жизнь Потребителя.
+			</p>
+			<br />
+
 			<img src="/img/skidka.jpg" alt="Скидка 10% на все в честь юбилея компании - 10 лет">
 			<p class="skidka-info">* Подробнее об акции обращайтесь в офис компании.</p>
 		</div>
@@ -91,6 +97,94 @@
 				<a class="factory-img" href="/img/factory-min.jpg"><img src="/img/factory-min.jpg" alt="Завод"></a>
 			</div>
 
+			<br />
+
+			<div class="about-company-text">
+				<h3>Награды</h3>
+				<p>Продукция «Алл Грин» регулярно участвует в престижных федеральных и региональных конкурсах и имеет множество наград. Среди них: «100 лучших товаров России» и  «Лучшие товары Дона». Но самая главная награда для нас это признание Потребителей.</p>
+
+				<div class="nagrady">
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/01-min.jpg" title=""><img src="/img/nagrady/sml/sml_01-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/02-min.jpg" title=""><img src="/img/nagrady/sml/sml_02-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/03-min.jpg" title=""><img src="/img/nagrady/sml/sml_03-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/04-min.jpg" title=""><img src="/img/nagrady/sml/sml_04-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/05-min.jpg" title=""><img src="/img/nagrady/sml/sml_05-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/06-min.jpg" title=""><img src="/img/nagrady/sml/sml_06-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/07-min.jpg" title=""><img src="/img/nagrady/sml/sml_07-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/08-min.jpg" title=""><img src="/img/nagrady/sml/sml_08-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/09-min.jpg" title=""><img src="/img/nagrady/sml/sml_09-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/10-min.jpg" title=""><img src="/img/nagrady/sml/sml_10-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/11-min.jpg" title=""><img src="/img/nagrady/sml/sml_11-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/12-min.jpg" title=""><img src="/img/nagrady/sml/sml_12-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/13-min.jpg" title=""><img src="/img/nagrady/sml/sml_13-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/14-min.jpg" title=""><img src="/img/nagrady/sml/sml_14-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/15-min.jpg" title=""><img src="/img/nagrady/sml/sml_15-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/16-min.jpg" title=""><img src="/img/nagrady/sml/sml_16-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/17-min.jpg" title=""><img src="/img/nagrady/sml/sml_17-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/18-min.jpg" title=""><img src="/img/nagrady/sml/sml_18-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/19-min.jpg" title=""><img src="/img/nagrady/sml/sml_19-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/20-min.jpg" title=""><img src="/img/nagrady/sml/sml_20-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/21-min.jpg" title=""><img src="/img/nagrady/sml/sml_21-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/22-min.jpg" title=""><img src="/img/nagrady/sml/sml_22-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/23-min.jpg" title=""><img src="/img/nagrady/sml/sml_23-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/24-min.jpg" title=""><img src="/img/nagrady/sml/sml_24-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/25-min.jpg" title=""><img src="/img/nagrady/sml/sml_25-min.jpg" alt="Награды"></a>
+					</div>
+					<div class="nagrady-element">
+						<a class="nagrady-href" data-fancybox-group="nagrady" href="/img/nagrady/26-min.jpg" title=""><img src="/img/nagrady/sml/sml_26-min.jpg" alt="Награды"></a>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
 </div>
@@ -103,6 +197,7 @@
 
 	$(document).ready(function(){
 		$('.factory-img').fancybox();
+		$('.nagrady-href').fancybox();
 	});
 
 </script>
