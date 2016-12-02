@@ -64,36 +64,34 @@
 ?>
 
 <script>
+	$(document).ready(function(){
+		ymaps.ready(init);
+		var myMap, 
+		myPlacemark;
 
-$(document).ready(function(){
-	ymaps.ready(init);
-	var myMap, 
-	myPlacemark;
+		function init(){
+			myMap = new ymaps.Map("map", {
+				center: [47.093750341111566, 39.81057645749588],
+				zoom: 11,
+				controls: []
+			});
 
-	function init(){
-		myMap = new ymaps.Map("map", {
-			center: [47.093750341111566, 39.81057645749588],
-			zoom: 11,
-			controls: []
-		});
+			myPlacemark = new ymaps.Placemark([47.093750341111566, 39.81057645749588], {
+				hintContent: '«Алл Грин»',
+			}, {
+				preset: 'twirl#violetDotIcon'
+			});
 
-		myPlacemark = new ymaps.Placemark([47.093750341111566, 39.81057645749588], {
-			hintContent: '«Алл Грин»',
-		}, {
-			preset: 'twirl#violetDotIcon'
-		});
+			myPolyline = new ymaps.Polyline([[47.095393, 39.806440], [47.094123, 39.806386], [47.094409, 39.810613]],
+				{balloonContent: "Схема проезда с трассы М-4"},
+				{strokeColor: "485B0C", strokeWidth: 5, strokeOpacity: 0.7}
+			);
 
-		myPolyline = new ymaps.Polyline([[47.095393, 39.806440], [47.094123, 39.806386], [47.094409, 39.810613]],
-			{balloonContent: "Схема проезда с трассы М-4"},
-			{strokeColor: "485B0C", strokeWidth: 5, strokeOpacity: 0.7}
-		);
+			myMap.geoObjects.add(myPlacemark);
+			myMap.geoObjects.add(myPolyline);
 
-		myMap.geoObjects.add(myPlacemark);
-		myMap.geoObjects.add(myPolyline);
-
-		myMap.controls.add(new ymaps.control.TypeSelector(['yandex#map', 'yandex#hybrid', 'yandex#satellite']));
-		myMap.controls.add(new ymaps.control.ZoomControl());
-	}
-});
-
+			myMap.controls.add(new ymaps.control.TypeSelector(['yandex#map', 'yandex#hybrid', 'yandex#satellite']));
+			myMap.controls.add(new ymaps.control.ZoomControl());
+		}
+	});
 </script>

@@ -63,6 +63,7 @@
 						<img src="/img/partners/sangi_stil-min.jpg" alt="Санги Стиль">
 					</div>
 				</div>
+			</div>
 
 		</div>
 	</div>
