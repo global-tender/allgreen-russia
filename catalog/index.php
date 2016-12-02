@@ -70,82 +70,90 @@
 
 				<hr class="tovars-split" />
 
-				<h3>Средство для мытья посуды</h3>
+				<h3>Средство для мытья посуды, серия «Magic»</h3>
+
+				<div class="tovar-grid">
+					<div class="tovar-grid-cell">
+						<a data-fancybox-group="dlya-mytiya-posudy-magic" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy-magic/01-min.jpg">
+							<img src="/img/catalog/dlya-mytiya-posudy-magic/sml/sml_01-min.jpg" alt="Средство для мытья посуды, серия «Magic»">
+						</a>
+					</div>
+					<div class="tovar-grid-cell">
+						<a data-fancybox-group="dlya-mytiya-posudy-magic" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy-magic/02-min.jpg">
+							<img src="/img/catalog/dlya-mytiya-posudy-magic/sml/sml_02-min.jpg" alt="Средство для мытья посуды, серия «Magic»">
+						</a>
+					</div>
+					<div class="tovar-grid-cell">
+						<a data-fancybox-group="dlya-mytiya-posudy-magic" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy-magic/03-min.jpg">
+							<img src="/img/catalog/dlya-mytiya-posudy-magic/sml/sml_03-min.jpg" alt="Средство для мытья посуды, серия «Magic»">
+						</a>
+					</div>
+				</div>
+
+
+				<hr class="tovars-split" />
+
+				<h3>Средство для мытья посуды, серия «Мыть посуду»</h3>
 
 				<div class="tovar-grid">
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/01-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_01-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_01-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/02-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_02-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_02-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/03-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_03-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_03-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/04-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_04-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_04-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/05-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_05-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_05-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/06-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_06-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_06-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/07-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_07-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_07-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/08-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_08-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_08-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/09-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_09-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_09-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/10-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_10-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_10-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/11-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_11-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_11-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/12-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_12-min.jpg" alt="Средство для мытья посуды">
-						</a>
-					</div>
-					<div class="tovar-grid-cell">
-						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/13-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_13-min.jpg" alt="Средство для мытья посуды">
-						</a>
-					</div>
-					<div class="tovar-grid-cell">
-						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/14-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_14-min.jpg" alt="Средство для мытья посуды">
-						</a>
-					</div>
-					<div class="tovar-grid-cell">
-						<a data-fancybox-group="dlya-mytiya-posudy" class="tovar-element" href="/img/catalog/dlya-mytiya-posudy/15-min.jpg">
-							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_15-min.jpg" alt="Средство для мытья посуды">
+							<img src="/img/catalog/dlya-mytiya-posudy/sml/sml_12-min.jpg" alt="Средство для мытья посуды, серия «Мыть посуду»">
 						</a>
 					</div>
 				</div>
@@ -207,37 +215,37 @@
 
 				<hr class="tovars-split" />
 
-				<h3>Жидкое мыло</h3>
+				<h3>Жидкое мыло, серия «Fluid»</h3>
 
 				<div class="tovar-grid">
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="zhidkoe-mylo" class="tovar-element" href="/img/catalog/zhidkoe-mylo/01-min.jpg">
-							<img src="/img/catalog/zhidkoe-mylo/sml/sml_01-min.jpg" alt="Жидкое мыло">
+							<img src="/img/catalog/zhidkoe-mylo/sml/sml_01-min.jpg" alt="Жидкое мыло, серия «Fluid»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="zhidkoe-mylo" class="tovar-element" href="/img/catalog/zhidkoe-mylo/02-min.jpg">
-							<img src="/img/catalog/zhidkoe-mylo/sml/sml_02-min.jpg" alt="Жидкое мыло">
+							<img src="/img/catalog/zhidkoe-mylo/sml/sml_02-min.jpg" alt="Жидкое мыло, серия «Fluid»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="zhidkoe-mylo" class="tovar-element" href="/img/catalog/zhidkoe-mylo/03-min.jpg">
-							<img src="/img/catalog/zhidkoe-mylo/sml/sml_03-min.jpg" alt="Жидкое мыло">
+							<img src="/img/catalog/zhidkoe-mylo/sml/sml_03-min.jpg" alt="Жидкое мыло, серия «Fluid»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="zhidkoe-mylo" class="tovar-element" href="/img/catalog/zhidkoe-mylo/04-min.jpg">
-							<img src="/img/catalog/zhidkoe-mylo/sml/sml_04-min.jpg" alt="Жидкое мыло">
+							<img src="/img/catalog/zhidkoe-mylo/sml/sml_04-min.jpg" alt="Жидкое мыло, серия «Fluid»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="zhidkoe-mylo" class="tovar-element" href="/img/catalog/zhidkoe-mylo/05-min.jpg">
-							<img src="/img/catalog/zhidkoe-mylo/sml/sml_05-min.jpg" alt="Жидкое мыло">
+							<img src="/img/catalog/zhidkoe-mylo/sml/sml_05-min.jpg" alt="Жидкое мыло, серия «Fluid»">
 						</a>
 					</div>
 					<div class="tovar-grid-cell">
 						<a data-fancybox-group="zhidkoe-mylo" class="tovar-element" href="/img/catalog/zhidkoe-mylo/06-min.jpg">
-							<img src="/img/catalog/zhidkoe-mylo/sml/sml_06-min.jpg" alt="Жидкое мыло">
+							<img src="/img/catalog/zhidkoe-mylo/sml/sml_06-min.jpg" alt="Жидкое мыло, серия «Fluid»">
 						</a>
 					</div>
 				</div>
