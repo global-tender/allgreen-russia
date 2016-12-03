@@ -25,6 +25,17 @@
 
 	<link rel="stylesheet" href="/css/normalize.css">
 	<link rel="stylesheet" href="/css/style.css?ver=0.024">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="<?=$title?>">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://allgreen-russia.ru<?=$_SERVER['PHP_SELF']?>">
+	<meta property="og:image" content="https://allgreen-russia.ru/img/logo.gif">
+	<meta property="og:site_name" content="<?=$title?>">
+	<meta property="og:description" content="Производство высококачественных моющих и чистящих средств, разработанных профессионалами в сотрудничестве со специалистами в области экологии.">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:description" content="Производство высококачественных моющих и чистящих средств, разработанных профессионалами в сотрудничестве со специалистами в области экологии.">
+
 </head>
 
 <?php
