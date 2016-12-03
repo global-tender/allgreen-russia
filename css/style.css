@@ -37,6 +37,12 @@ a.fancybox-close {
 	height: 300px;
 }
 
+.hidden-contacts {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
+
 
 
 

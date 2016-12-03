@@ -11,6 +11,20 @@
 	<div class="footer-element">
 		<span class="space"></span> e-mail: <a href="mailto:allgreen@allgreen-russia.ru" title="Написать на почту">allgreen@all<span class="hidden">is</span>green-russia.ru</a>
 	</div>
+
+
+	<?/* Микроразметка контактов на всех страницах, неотображаемая */?>
+	<div class="hidden-contacts" itemscope itemtype="https://schema.org/Organization">
+		<span itemprop="name">«Алл Грин» — производство моющих и чистящих средств</span>
+		<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+			<span itemprop="streetAddress">Ленина х, 1081 км. автомагистрали "Дон"</span>
+			<span itemprop="postalCode">346703</span>
+			<span itemprop="addressLocality">Ростовская обл, Аксайский р-н</span>,
+		</div>
+		<span itemprop="telephone">+78632035599</span>,
+		<a href="mailto:allgreen@allgreen-russia.ru" itemprop="email">allgreen@allgreen-russia.ru</a>
+	</div>
+
 </footer>
 
 
