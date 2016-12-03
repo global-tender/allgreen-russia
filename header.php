@@ -70,9 +70,9 @@
 
 				<div class="top-line">
 					<form method="POST" action="/request/" name="request">
-						<input type="text" name="allgreen_name" placeholder="Ваше имя" required>
-						<input type="text" name="allgreen_phone" placeholder="Номер телефона" required>
-						<input type="text" name="allgreen_message" placeholder="Комментарий">
+						<input type="text" name="allgreen_name" placeholder="Ваше имя" title="Ваше имя" required>
+						<input type="text" name="allgreen_phone" placeholder="Номер телефона" title="Номер телефона" required>
+						<input type="text" name="allgreen_message" placeholder="Комментарий" title="Комментарий">
 
 						<input type="submit" value="Оставить заявку" name="request_submit">
 					</form>
