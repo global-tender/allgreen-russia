@@ -70,7 +70,7 @@
 
 				<hr class="tovars-split" />
 
-				<h3>Средство для мытья посуды, серия «Magic»</h3>
+				<h3>Средство для мытья посуды<br />серия «Magic»</h3>
 
 				<div class="tovar-grid">
 					<div class="tovar-grid-cell">
@@ -93,7 +93,7 @@
 
 				<hr class="tovars-split" />
 
-				<h3>Средство для мытья посуды, серия «Мыть посуду»</h3>
+				<h3>Серия «Мыть посуду»</h3>
 
 				<div class="tovar-grid">
 					<div class="tovar-grid-cell">
@@ -215,7 +215,7 @@
 
 				<hr class="tovars-split" />
 
-				<h3>Жидкое мыло, серия «Fluid»</h3>
+				<h3>Жидкое мыло<br />серия «Fluid»</h3>
 
 				<div class="tovar-grid">
 					<div class="tovar-grid-cell">
