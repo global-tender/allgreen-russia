@@ -42,9 +42,9 @@
 					</p>
 
 					<p><b>E-mail:</b><br />
-						<span class="email_addr"><b>Генеральный директор</b> – <a class="mailto" href="mailto:gendir@allgreen-russia.ru" title="Написать на эту почту">gendir@all<span class="hidden">is</span>green-russia.ru</a></span><br />
-						<span class="email_addr"><b>Главный бухгалтер</b> – <a class="mailto" href="mailto:glavbuh@allgreen-russia.ru" title="Написать на эту почту">glavbuh@all<span class="hidden">is</span>green-russia.ru</a></span><br />
-						<span class="email_addr"><b>Общая почта</b> – <a class="mailto" href="mailto:allgreen@allgreen-russia.ru" title="Написать на общую почту">allgreen@all<span class="hidden">is</span>green-russia.ru</a></span><br />
+						<span class="email_addr"><b>Генеральный директор</b> – <a class="mailto" href="mailto:gendir@allgreen-russia.ru" title="Написать на эту почту">gendir@allgreen-russia.ru</a></span><br />
+						<span class="email_addr"><b>Главный бухгалтер</b> – <a class="mailto" href="mailto:glavbuh@allgreen-russia.ru" title="Написать на эту почту">glavbuh@allgreen-russia.ru</a></span><br />
+						<span class="email_addr"><b>Общая почта</b> – <a class="mailto" href="mailto:allgreen@allgreen-russia.ru" title="Написать на общую почту">allgreen@allgreen-russia.ru</a></span><br />
 					</p>
 
 					<br />

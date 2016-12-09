@@ -9,7 +9,7 @@
 	</div>
 
 	<div class="footer-element">
-		<span class="space"></span> e-mail: <a href="mailto:allgreen@allgreen-russia.ru" title="Написать на почту">allgreen@all<span class="hidden">is</span>green-russia.ru</a>
+		<span class="space"></span> e-mail: <a href="mailto:allgreen@allgreen-russia.ru" title="Написать на почту">allgreen@allgreen-russia.ru</a>
 	</div>
 
 
