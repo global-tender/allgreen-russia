@@ -564,6 +564,12 @@ footer div.footer-element {
 	color: #000;
 }
 
+.col-right-container ul li {
+	font-size: 13px;
+	text-shadow: 0.2px 0.2px 0.2px #fff;
+	color: #000;
+}
+
 .col-right-container h1 {
 	margin: 0;
 	padding: 0;
@@ -662,6 +668,10 @@ hr.tovars-split {
 }
 
 .col-right-container .about-company-text p {
+	font-size: 14px;
+}
+
+.col-right-container .about-company-text ul li {
 	font-size: 14px;
 }
 
