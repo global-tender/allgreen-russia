@@ -14,7 +14,7 @@
 
 	<div class="footer-element">
 		<span class="space"></span>
-		<span>made by <a href="mailto:rootkid123@gmail.com" title="Написать на почту">ihp</a></span>
+		<span>made by <a href="mailto:rootkid123@gmail.com" title="Связь с разработчиком">ihp</a></span>
 	</div>
 
 
