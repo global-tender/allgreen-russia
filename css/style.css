@@ -844,6 +844,15 @@ hr.tovars-split {
 
 
 
+.adsense {
+	max-width: 180px;
+	max-height: 150px;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
 
 
 @media screen and (max-width: 980px) {

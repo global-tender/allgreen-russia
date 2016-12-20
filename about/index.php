@@ -25,6 +25,20 @@
 
 			<img src="/img/skidka.jpg" alt="Скидка 10% на все в честь юбилея компании - 10 лет">
 			<p class="skidka-info">* Подробнее об акции обращайтесь в офис компании.</p>
+			<br />
+
+			<div class="adsense">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- allgreen-russia.ru -->
+				<ins class="adsbygoogle"
+				     style="display:inline-block;width:180px;height:150px"
+				     data-ad-client="ca-pub-1502331739186135"
+				     data-ad-slot="5440439007"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+
 		</div>
 	</div>
 

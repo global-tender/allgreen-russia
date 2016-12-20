@@ -24,7 +24,7 @@
 	<!-- //fonts -->
 
 	<link rel="stylesheet" href="/css/normalize.css">
-	<link rel="stylesheet" href="/css/style.css?ver=0.026">
+	<link rel="stylesheet" href="/css/style.css?ver=0.027">
 
 	<!-- Open Graph -->
 	<meta property="og:title" content="<?=$title?>">
