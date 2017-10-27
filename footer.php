@@ -12,10 +12,6 @@
 		<span class="space"></span> e-mail: <a href="mailto:allgreen@allgreen-russia.ru" title="Написать на почту">allgreen@allgreen-russia.ru</a>
 	</div>
 
-	<div class="footer-element">
-		<span class="space"></span>
-		<span>made by <a href="mailto:rootkid123@gmail.com" title="Связь с разработчиком">ihp</a></span>
-	</div>
 
 
 	<?/* Микроразметка контактов на всех страницах, неотображаемая */?>
